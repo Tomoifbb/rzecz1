@@ -1,9 +1,17 @@
 * {
-  color:red;
+  color: #ff1a1a;
+  padding: 20px;
+  isolation: auto;
+  
 }
 body{
-background-color: blue;
+background-color: #f2e6ff;
+  word-spacing: 2px;
+  text-align: center;
 
 }
 #kotek {
+  background-color: #99ffff;
+  margin: left;
+  border-radius: 5px;
 }
